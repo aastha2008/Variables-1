@@ -1,0 +1,10 @@
+print("2+2")
+print(2+2)
+dobAtul=1972
+print(dobAtul)
+favCharcter='a'
+print(favCharcter)
+pi=3.14
+print(pi)
+isNight=True
+print(isNight)
